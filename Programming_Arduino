@@ -6,7 +6,14 @@ Step 2:
 Blinking led 13
 "Examples>Basics>Blink"
 
+Step 2.1.:
+Blinking led 13 a defined number of times (1+1+1+10 seconds)
+"BlinkingIntervals"
+
 Step 3:
 Turning on and off led13 by crossing 2 wires (pin2 GND (10K resistor))
+"Examples>Digital>Button"
 
-Step 2:
+Step 4:
+Listening # of pulses and repeat them
+
