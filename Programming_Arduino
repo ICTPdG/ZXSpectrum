@@ -1,0 +1,12 @@
+Step 1:
+Turning led13 on
+"led13On"
+
+Step 2:
+Blinking led 13
+"Examples>Basics>Blink"
+
+Step 3:
+Turning on and off led13 by crossing 2 wires (pin2 GND (10K resistor))
+
+Step 2:
