@@ -18,4 +18,19 @@ Step 4:
 Listening # of button pushes (shine LED13) and write it on serial PORT
 "ButtonPushCounter_A"
 
+Step 5:
+Listening # of button pushes (shine LED13) and repeats blinking of LED13
+
+Step 5.1.:
+5 by delay time
+
+Step 5.2.:
+5 by "Enter" pin
+
+Step 6:
+Enter two # by button pushes and blinking addition on LED13
+
+Step 7:
+Technical solutions for INPUT and OUTPUT + programming (1 figure...)
+
 
