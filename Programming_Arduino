@@ -15,5 +15,7 @@ Turning on and off led13 by crossing 2 wires (pin2 GND (10K resistor))
 "Examples>Digital>Button"
 
 Step 4:
-Listening # of pulses and repeat them
+Listening # of button pushes (shine LED13) and write it on serial PORT
+"ButtonPushCounter_A"
+
 
